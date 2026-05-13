@@ -1,0 +1,42 @@
+{
+  "businessName": "Duds House",
+  "industry": "Fashion and Creative Design",
+  "tone": "trendy and creative",
+  "tagline": "Where Style Meets Innovation",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Duds House – Abakaliki's premier destination for fashion-forward clothing and creative design solutions. We bring your style vision to life with unique pieces that make you stand out.",
+      "imagePrompt": "A vibrant, modern fashion boutique interior in Nigeria with colorful fabrics, trendy clothing displays, and natural lighting streaming through large windows. Young fashionable Nigerian models browsing through racks of contemporary African-inspired streetwear and designer pieces. Warm, inviting atmosphere with plants and artistic decor elements.",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Duds House is your trusted partner in fashion excellence, located at the heart of Abakaliki at G-Hostel junction. We specialize in contemporary fashion, bespoke tailoring, and creative design services that reflect the dynamic spirit of modern Nigeria. Our team combines traditional craftsmanship with cutting-edge style trends to deliver clothing and designs that speak to your unique personality. Whether you're looking for everyday wear, special occasion outfits, or custom design projects, we're here to bring your fashion dreams to reality.",
+      "imagePrompt": "A warm, welcoming Nigerian fashion studio with skilled tailors and designers at work. Colorful African fabrics draped artistically, sewing machines, design sketches on walls, and mannequins displaying beautiful custom pieces. Natural daylight creating an inspiring creative workspace atmosphere in Abakaliki.",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "**Ready-to-Wear Fashion**\nExplore our curated collection of trendy, quality clothing for men and women. From casual wear to statement pieces, we stock styles that keep you ahead of the fashion curve.\n\n**Bespoke Tailoring**\nGet perfectly fitted, custom-made garments designed specifically for you. Our expert tailors work with premium fabrics to create pieces that match your exact measurements and style preferences.\n\n**Creative Design Services**\nBring your creative ideas to life with our graphic design, branding, and visual identity services. We help businesses and individuals stand out with professional, eye-catching designs.\n\n**Style Consultation**\nNot sure what works for you? Our fashion consultants provide personalized styling advice to help you discover looks that enhance your natural appeal and suit your lifestyle.",
+      "imagePrompt": "A modern grid layout showcasing different fashion services: a rack of colorful ready-to-wear clothing, a tailor measuring a client for bespoke garments, a designer working on creative digital designs on a computer, and a style consultant advising a happy customer. Bright, professional Nigerian fashion studio setting with excellent lighting.",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Visit Us Today",
+      "copy": "Ready to elevate your style? Visit Duds House at G-Hostel junction in Abakaliki or get in touch with us today. We're excited to help you look and feel your absolute best.\n\n**Location:** G-Hostel junction, Abakaliki, Nigeria\n**Phone:** 07062189499\n**WhatsApp:** Chat with us instantly for quick enquiries and orders\n\nOur friendly team is ready to serve you Monday through Saturday. Walk-ins are welcome, or contact us to schedule a personal consultation.",
+      "imagePrompt": "A welcoming storefront view of a modern fashion boutique at G-Hostel junction in Abakaliki, Nigeria. Clean signage, large display windows showing beautiful clothing, and an inviting entrance. Customers walking in and out with shopping bags. Sunny day with clear blue skies and well-maintained surroundings typical of an Abakaliki commercial area.",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "07062189499",
+    "email": "",
+    "address": "G-Hostel junction, Abakaliki, Nigeria",
+    "whatsapp": "https://wa.me/2347062189499"
+  }
+}
