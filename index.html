@@ -633,7 +633,7 @@
 
     <!-- Hero Section -->
     <section id="hero">
-        <img src="https://images.pexels.com/photos/34321369/pexels-photo-34321369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Fruittion Catering" class="hero-bg">
+        <img src="https://images.pexels.com/photos/5830825/pexels-photo-5830825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Fruittion Catering" class="hero-bg">
         <div class="hero-overlay"></div>
         <div class="hero-content">
             <h1>Fruittion Catering Tech Co</h1>
@@ -785,4 +785,18 @@
         const mobileMenu = document.querySelector('.mobile-menu');
 
         if (mobileMenuBtn && mobileMenu) {
-            mobileMenuBtn.addEventListener('
+            mobileMenuBtn.addEventListener('click', () => {
+                mobileMenuBtn.classList.toggle('active');
+                mobileMenu.classList.toggle('active');
+            });
+
+            document.querySelectorAll('.mobile-menu a').forEach(link => {
+                link.addEventListener('click', () => {
+                    mobileMenuBtn.classList.remove('active');
+                    mobileMenu.classList.remove('active');
+                });
+            });
+        }
+    </script>
+</body>
+</html>
