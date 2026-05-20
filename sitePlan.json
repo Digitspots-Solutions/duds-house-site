@@ -1,42 +1,63 @@
 {
-  "businessName": "Duds House",
-  "industry": "Fashion and Creative Design",
-  "tone": "trendy and creative",
-  "tagline": "Where Style Meets Innovation",
+  "businessName": "Fruittion Catering Tech Co",
+  "industry": "FoodTech & Catering",
+  "tone": "innovative yet warm",
+  "tagline": "Where Technology Meets Culinary Excellence",
   "sections": [
     {
       "id": "hero",
       "name": "Hero",
-      "copy": "Welcome to Duds House – Abakaliki's premier destination for fashion-forward clothing and creative design solutions. We bring your style vision to life with unique pieces that make you stand out.",
-      "imagePrompt": "A vibrant, modern fashion boutique interior in Nigeria with colorful fabrics, trendy clothing displays, and natural lighting streaming through large windows. Young fashionable Nigerian models browsing through racks of contemporary African-inspired streetwear and designer pieces. Warm, inviting atmosphere with plants and artistic decor elements.",
+      "copy": "Welcome to Fruittion Catering Tech Co - Nigeria's Premier FoodTech Innovation Hub. We blend cutting-edge technology with traditional culinary artistry to deliver exceptional catering experiences across Abakaliki and beyond. From corporate events to intimate celebrations, we transform your occasions into unforgettable gastronomic journeys.",
+      "imagePrompt": "Photorealistic aerial view of an elegant Nigerian outdoor event setup in Abakaliki with beautifully plated gourmet dishes on modern serving tables, warm golden hour lighting, lush greenery in background, professional catering staff in branded uniforms arranging colorful appetizers, contemporary tech-enabled food service stations, high-end photography style",
       "layout": "centered"
     },
     {
       "id": "about",
       "name": "About Us",
-      "copy": "Duds House is your trusted partner in fashion excellence, located at the heart of Abakaliki at G-Hostel junction. We specialize in contemporary fashion, bespoke tailoring, and creative design services that reflect the dynamic spirit of modern Nigeria. Our team combines traditional craftsmanship with cutting-edge style trends to deliver clothing and designs that speak to your unique personality. Whether you're looking for everyday wear, special occasion outfits, or custom design projects, we're here to bring your fashion dreams to reality.",
-      "imagePrompt": "A warm, welcoming Nigerian fashion studio with skilled tailors and designers at work. Colorful African fabrics draped artistically, sewing machines, design sketches on walls, and mannequins displaying beautiful custom pieces. Natural daylight creating an inspiring creative workspace atmosphere in Abakaliki.",
+      "copy": "Fruittion Events Foods Limited is revolutionizing the catering industry in Abakaliki and across Ebonyi State. Founded by a passionate Pastry Tech Innovator, we combine the precision of technology with the soul of Nigerian hospitality. Our state-of-the-art kitchen facility near G-Hostel junction serves as our innovation lab, where traditional recipes meet modern culinary techniques. We specialize in creating memorable food experiences for weddings, corporate events, conferences, and private celebrations. Every dish that leaves our kitchen is a testament to our commitment to quality, innovation, and the rich culinary heritage of Nigeria.",
+      "imagePrompt": "Professional interior shot of a modern Nigerian commercial kitchen with stainless steel equipment, pastry chefs in white uniforms working on elaborate cake designs, digital displays showing orders, warm ambient lighting, shelves with premium ingredients, blend of traditional Nigerian cooking tools and modern technology, clean contemporary aesthetic",
       "layout": "split"
     },
     {
       "id": "services",
       "name": "Our Services",
-      "copy": "**Ready-to-Wear Fashion**\nExplore our curated collection of trendy, quality clothing for men and women. From casual wear to statement pieces, we stock styles that keep you ahead of the fashion curve.\n\n**Bespoke Tailoring**\nGet perfectly fitted, custom-made garments designed specifically for you. Our expert tailors work with premium fabrics to create pieces that match your exact measurements and style preferences.\n\n**Creative Design Services**\nBring your creative ideas to life with our graphic design, branding, and visual identity services. We help businesses and individuals stand out with professional, eye-catching designs.\n\n**Style Consultation**\nNot sure what works for you? Our fashion consultants provide personalized styling advice to help you discover looks that enhance your natural appeal and suit your lifestyle.",
-      "imagePrompt": "A modern grid layout showcasing different fashion services: a rack of colorful ready-to-wear clothing, a tailor measuring a client for bespoke garments, a designer working on creative digital designs on a computer, and a style consultant advising a happy customer. Bright, professional Nigerian fashion studio setting with excellent lighting.",
+      "copy": "CORPORATE CATERING: Elevate your business events with our professional catering solutions. From board meetings to company-wide celebrations, we deliver punctual, high-quality service that impresses clients and energizes teams.\n\nWEDDING & CELEBRATION CATERING: Your special day deserves extraordinary cuisine. We create custom menus that reflect your taste, culture, and vision, ensuring every guest remembers your celebration.\n\nPASTRY & DESSERT INNOVATION: Our signature service combines artistry with technology. Custom cakes, contemporary desserts, and traditional Nigerian sweets reimagined for the modern palate.\n\nMEAL PREP & DELIVERY: Healthy, delicious meals delivered to your doorstep in Abakaliki. Perfect for busy professionals and families who value nutrition without compromising on taste.\n\nEVENT PLANNING CONSULTATION: Beyond food, we help you plan the entire culinary experience of your event, from menu design to presentation aesthetics.",
+      "imagePrompt": "Vibrant collage-style image showing multiple catering scenarios: elegant three-tier wedding cake with Nigerian traditional patterns, buffet spread with jollof rice and grilled proteins, business lunch setup in modern office, beautifully packaged meal prep containers, colorful small chops platter, all photographed in bright natural light with professional food styling",
       "layout": "grid"
     },
     {
+      "id": "team",
+      "name": "Meet Our Founder",
+      "copy": "Our founder is a Pastry Tech Innovator who saw the future of Nigerian catering and decided to build it. With years of experience in both culinary arts and technology integration, they established Fruittion to bridge the gap between traditional food service and modern efficiency. Their vision: to make world-class catering accessible to every community in Nigeria, starting right here in Abakaliki. Under their leadership, Fruittion has become synonymous with reliability, innovation, and exceptional taste.",
+      "imagePrompt": "Professional portrait of a confident Nigerian entrepreneur in a modern kitchen setting, wearing chef's coat with tech elements visible in background (tablets, digital systems), warm smile, hands artistically arranged near a beautifully decorated pastry, soft studio lighting, bokeh background showing kitchen activity, inspirational and approachable mood",
+      "layout": "centered"
+    },
+    {
+      "id": "testimonials",
+      "name": "What Our Clients Say",
+      "copy": "\"Fruittion catered our company's anniversary dinner and it was absolutely phenomenal. The presentation was stunning and the taste even better. They handled everything professionally from start to finish.\" - Mrs. Chioma Okeke, HR Manager, Abakaliki\n\n\"Our wedding guests are still talking about the food three months later! The cake was a masterpiece and the small chops were finished before the reception even started. Fruittion made our day perfect.\" - Mr. & Mrs. Eze, Newlyweds\n\n\"As someone who values healthy eating but has a busy schedule, their meal prep service has been a lifesaver. Delicious, balanced meals delivered on time, every time.\" - Dr. Samuel Nweke, Medical Practitioner\n\n\"I've worked with many caterers across the Southeast, but Fruittion's attention to detail and use of technology for seamless coordination sets them apart. Highly recommended.\" - Pastor James Onu, Event Coordinator",
+      "imagePrompt": "Warm candid photography of happy Nigerian event guests at a beautifully decorated reception venue in Abakaliki, people smiling while eating, colorful traditional attire, elegant table settings with Fruittion branded elements, natural joyful expressions, golden hour lighting through windows, authentic celebration atmosphere",
+      "layout": "cards"
+    },
+    {
+      "id": "faq",
+      "name": "Frequently Asked Questions",
+      "copy": "HOW FAR IN ADVANCE SHOULD I BOOK?\nFor weddings and large events, we recommend booking 2-3 months in advance. Corporate events and smaller gatherings can often be accommodated with 2-3 weeks notice, subject to availability.\n\nDO YOU CATER EVENTS OUTSIDE ABAKALIKI?\nYes! While we're based in Abakaliki, we serve clients across Ebonyi State and neighboring communities. Delivery fees apply based on distance.\n\nCAN YOU ACCOMMODATE DIETARY RESTRICTIONS?\nAbsolutely. We regularly prepare meals for guests with allergies, religious dietary requirements, vegetarian preferences, and medical restrictions. Just inform us during consultation.\n\nWHAT'S INCLUDED IN YOUR CATERING PACKAGES?\nOur packages typically include menu planning, food preparation, serving equipment, staff (for full-service events), and cleanup. We customize based on your specific needs and budget.\n\nHOW DO PAYMENTS WORK?\nWe require a 40% deposit to secure your date, with the balance due 72 hours before your event. We accept bank transfers, cash, and mobile money payments.\n\nDO YOU PROVIDE TASTING SESSIONS?\nYes, for wedding and premium packages, we offer complimentary tasting sessions so you can sample and approve your menu before the big day.",
+      "imagePrompt": "Clean, modern graphic design showing a friendly Nigerian customer service representative with headset in a bright office environment, surrounded by subtle food-related icons and imagery, professional yet approachable aesthetic, soft blue and green color palette, natural lighting",
+      "layout": "default"
+    },
+    {
       "id": "contact",
-      "name": "Visit Us Today",
-      "copy": "Ready to elevate your style? Visit Duds House at G-Hostel junction in Abakaliki or get in touch with us today. We're excited to help you look and feel your absolute best.\n\n**Location:** G-Hostel junction, Abakaliki, Nigeria\n**Phone:** 07062189499\n**WhatsApp:** Chat with us instantly for quick enquiries and orders\n\nOur friendly team is ready to serve you Monday through Saturday. Walk-ins are welcome, or contact us to schedule a personal consultation.",
-      "imagePrompt": "A welcoming storefront view of a modern fashion boutique at G-Hostel junction in Abakaliki, Nigeria. Clean signage, large display windows showing beautiful clothing, and an inviting entrance. Customers walking in and out with shopping bags. Sunny day with clear blue skies and well-maintained surroundings typical of an Abakaliki commercial area.",
+      "name": "Get In Touch",
+      "copy": "Ready to elevate your next event? Let's create something extraordinary together. Whether you're planning a wedding, corporate function, or simply want to explore our meal prep services, Fruittion Catering Tech Co is here to serve you. Visit us at our kitchen near G-Hostel junction in Abakaliki, call us for immediate assistance, or send us a message on WhatsApp. We respond to all inquiries within 24 hours and offer free consultations for event planning. Your culinary journey with Fruittion starts with a simple conversation. Let's make your vision delicious.",
+      "imagePrompt": "Inviting photograph of Fruittion's modern shopfront or kitchen entrance in Abakaliki, welcoming signage, clean contemporary architecture, potted plants, warm lighting from inside visible through glass, a staff member waving at entrance, nearby landmark (G-Hostel junction area) subtly visible, afternoon golden light, professional commercial photography",
       "layout": "centered"
     }
   ],
   "contact": {
-    "phone": "07062189499",
-    "email": "",
-    "address": "G-Hostel junction, Abakaliki, Nigeria",
+    "phone": "+234 706 218 9499",
+    "email": "hello@fruittion.com",
+    "address": "G-Hostel Junction, Abakaliki, Ebonyi State, Nigeria",
     "whatsapp": "https://wa.me/2347062189499"
   }
 }
